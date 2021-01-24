@@ -3,7 +3,7 @@
 int main()
 {
 int x=2,y=3;
-printf("The numbers before swapping are %d , %d.",x,y);
+printf("The numbers before swapping are %d , %d.\n",x,y);
 x=x+y;
 y=x-y;
 x=x-y;
